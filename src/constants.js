@@ -22,7 +22,9 @@ export const STANDARD_ICONS = [
   { id: 'heart', name: 'Support / Spende', category: 'general' },
   { id: 'coffee', name: 'Buy me a Coffee', category: 'business' },
   { id: 'camera', name: 'Portfolio / Fotos', category: 'media' },
-  { id: 'code', name: 'Projekte / Dev', category: 'developer' }
+  { id: 'code', name: 'Projekte / Dev', category: 'developer' },
+  { id: 'steam', name: 'Steam', category: 'gaming' },
+  { id: 'epic', name: 'Epic Games', category: 'gaming' }
 ];
 
 export const SOCIAL_PRESETS = [
@@ -30,6 +32,8 @@ export const SOCIAL_PRESETS = [
   { id: 'instagram', label: 'Instagram', placeholder: 'https://instagram.com/deinname', icon: 'instagram' },
   { id: 'youtube', label: 'YouTube', placeholder: 'https://youtube.com/@deinkanal', icon: 'youtube' },
   { id: 'tiktok', label: 'TikTok', placeholder: 'https://tiktok.com/@deinname', icon: 'tiktok' },
+  { id: 'steam', label: 'Steam', placeholder: 'https://steamcommunity.com/id/...', icon: 'steam' },
+  { id: 'epic', label: 'Epic Games', placeholder: 'https://store.epicgames.com/...', icon: 'epic' },
   { id: 'github', label: 'GitHub', placeholder: 'https://github.com/deinname', icon: 'github' },
   { id: 'twitter', label: 'X / Twitter', placeholder: 'https://x.com/deinname', icon: 'twitter' },
   { id: 'spotify', label: 'Spotify', placeholder: 'https://open.spotify.com/...', icon: 'spotify' },
